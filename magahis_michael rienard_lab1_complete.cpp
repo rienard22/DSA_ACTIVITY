@@ -85,7 +85,7 @@ string deleteFromTheEnd() {
     return "The array is underflow. Delete is not possible.\n";
 }
 
-
+9
 string deleteFromBeginning() {
     if (numElem > 0) {
         for (int i = 0; i < numElem - 1; i++) {
